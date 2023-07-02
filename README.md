@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- 
-**Notchayan/Notchayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FirySnehasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on two mathematics and finance related projects offered by IIT Kanpur Clubs.
 - 🌱 I’m currently learning Stock
