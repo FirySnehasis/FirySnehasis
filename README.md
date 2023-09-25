@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-My name is Snehasis Satapathy and I'm a first year Electrical Engineering Undergrad at IIT Kanpur.
+My name is Snehasis Satapathy and I'm a second year Electrical Engineering Undergrad at IIT Kanpur.
 
 <p align="center">
 <small>View Counter:</small><br>
